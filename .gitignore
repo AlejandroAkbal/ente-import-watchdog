@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+
+# Local runtime output
+*.log
+*.pid
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
